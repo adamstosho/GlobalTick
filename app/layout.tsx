@@ -12,6 +12,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <title>GlobeTick</title>
+        <link rel="icon" href="/placeholder-logo.png" type="image/png" />
         <style>{`
 html {
   font-family: ${GeistSans.style.fontFamily};
