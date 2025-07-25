@@ -72,6 +72,21 @@ Many people struggle to keep track of time differences when working, studying, o
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+# Preview of the App Interface
+
+![screenshot](/public/screenshot/screencapture-globaltick-vercel-app-2025-07-25-21_33_51.png)
+LANDING PAGE
+
+![screenshot](/public/screenshot/screencapture-globaltick-vercel-app-app-page-2025-07-25-21_34_30.png)
+THE APP INTERFACE AT DARK MODE
+
+![screenshot](/public/screenshot/screencapture-globaltick-vercel-app-app-page-2025-07-25-21_35_14.png)
+THE APP INTERFACE SHOWINNG THE TIME ZONE CONVERSION
+
+![screenshot](/public/screenshot/screencapture-globaltick-vercel-app-app-page-2025-07-25-21_35_33.png)
+THE LIGHT MODE OF THE AAPP
+
+
 ## License
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
