@@ -1,13 +1,7 @@
-import type { Metadata } from 'next'
+"use client"
 import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import './globals.css'
-
-export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
-}
 
 export default function RootLayout({
   children,
@@ -17,6 +11,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <title>GlobeTick</title>
         <style>{`
 html {
   font-family: ${GeistSans.style.fontFamily};
@@ -25,7 +20,9 @@ html {
 }
         `}</style>
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+      </body>
     </html>
-  )
+  );
 }

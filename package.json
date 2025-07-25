@@ -1,5 +1,6 @@
 {
-  "name": "my-v0-project",
+  "name": "GlobeTick",
+  "description": "A beautiful and unique world time synchronization app.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
